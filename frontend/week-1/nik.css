@@ -1,0 +1,63 @@
+#login{
+    margin: 10px 20px;
+    color:blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#head{
+    margin-top: 10px;
+    margin-left: 20px;
+    color:blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#email1,#email2,#pass1,#pass2{
+    margin-left: 20px;
+}
+
+#email1{
+    margin-top: 50px;
+}
+
+
+#email2,#pass2{
+    height: 30px;
+    width: 240px;
+    border: solid 1px black;
+    border-radius: 30px;
+    margin-top: 0px;
+    padding-left: 15px;
+}
+
+#container{
+    display:flex;
+    justify-content: space-between;
+}
+
+#image{
+    border: solid 1px black;
+    margin-right: 200px;
+}
+
+#btn-instead{
+    padding: 10px 20px;
+    margin-left: 30px;
+    margin-top: 40px;
+    color: white;
+    background-color: blue;
+    border: solid 0px black;
+}
+
+#submit{
+    padding: 10px 20px;
+    margin-left: 30px;
+    margin-top: 50px;
+    color: white;
+    background-color: blue;
+    border: solid 0px black;
+}
+
+#body{
+    background: url('background.jpg');
+    background-size: 100% 140%;
+}
